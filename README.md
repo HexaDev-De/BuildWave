@@ -28,16 +28,15 @@ Built entirely using **HTML** and **CSS**, this website demonstrates my ability 
 
 
 ## 🌐 Live Preview  
-Explore my portfolio here: [HexaDev Portfolio](https://hexadev-de.github.io/)  
+Explore my portfolio here: [HexaDev Portfolio](https://hexadev-de.github.io/BuildWave/)  
 
 ---
 
 ## 🤝 Let’s Connect  
 I’d love to hear from you! Feel free to reach out for collaborations, consultations, or just to say hi:  
 - 📧 Email: your-email@example.com  
-- 🌐 Website: [HexaDev Portfolio](https://hexadev-de.github.io/)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+- 🌐 Website: [HexaDev Portfolio](https://hexadev-de.github.io/BuildWave/)  
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/your-profile)  
 
 ---
 
