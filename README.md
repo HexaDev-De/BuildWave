@@ -34,9 +34,8 @@ Explore my portfolio here: [HexaDev Portfolio](https://hexadev-de.github.io/Buil
 
 ## 🤝 Let’s Connect  
 I’d love to hear from you! Feel free to reach out for collaborations, consultations, or just to say hi:  
-- 📧 Email: your-email@example.com  
+- 📧 Email: hexa0dev@gmail.com  
 - 🌐 Website: [HexaDev Portfolio](https://hexadev-de.github.io/BuildWave/)  
-- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/your-profile)  
 
 ---
 
